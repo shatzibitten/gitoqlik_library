@@ -1,12 +1,16 @@
 {
   "name": "@shatzibitten/gitoqlik_library",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Test package for Qlik Sense ",
   "main": "script.qvs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
+    "files": [
+      "script.qvs", "README.md"
+    ],
   "repository": {
     "type": "git",
     "url": "git://github.com/shatzibitten/gitoqlik_library.git"
