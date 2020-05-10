@@ -1,0 +1,25 @@
+{
+  "name": "@shatzibitten/gitoqlik_library",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "version": "1.0.0",
+  "description": "Test package for Qlik Sense ",
+  "main": "script.qvs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shatzibitten/gitoqlik_library.git"
+  },
+  "keywords": [
+    "qlik",
+    "sense",
+    "qvs"
+  ],
+  "author": "apolorotov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shatzibitten/gitoqlik_library/issues"
+  },
+  "homepage": "https://github.com/shatzibitten/gitoqlik_library#readme"
+}
