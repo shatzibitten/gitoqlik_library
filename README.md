@@ -1,5 +1,4 @@
-# Qlik Application Repository 
-# QVS_LIBRARY
+# PERSONAL QVS LIBRARY. 
 ### 
 
-That is a package that we will import in another application
+Exmaple how to qlikies could share their code-snippets and code-packages with community.
